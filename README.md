@@ -1,2 +1,3 @@
-# ressources-ca
-Ressources d'intégration et de design graphiques
+# Ressources tech et design
+
+Regroupe ici ma veille concernant l'intégration, le développement, l'UX et l'UI design.
